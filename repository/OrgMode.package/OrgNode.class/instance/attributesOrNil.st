@@ -1,0 +1,3 @@
+accessing - attributes
+attributesOrNil
+	^ attributes

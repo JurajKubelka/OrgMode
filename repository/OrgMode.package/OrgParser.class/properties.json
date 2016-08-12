@@ -1,0 +1,14 @@
+{
+	"category" : "OrgMode-Parsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OrgParser",
+	"pools" : [
+		 ],
+	"super" : "OrgGrammar",
+	"type" : "normal" }

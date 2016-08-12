@@ -1,0 +1,14 @@
+{
+	"category" : "OrgMode-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"items" ],
+	"name" : "OrgHeading",
+	"pools" : [
+		 ],
+	"super" : "OrgAbstractHeading",
+	"type" : "normal" }

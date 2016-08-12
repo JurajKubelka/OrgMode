@@ -1,0 +1,14 @@
+{
+	"category" : "OrgMode-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lines" ],
+	"name" : "OrgListContent",
+	"pools" : [
+		 ],
+	"super" : "OrgNodeWithParent",
+	"type" : "normal" }

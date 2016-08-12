@@ -1,0 +1,14 @@
+{
+	"category" : "OrgMode-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OrgEmptyProperties",
+	"pools" : [
+		 ],
+	"super" : "OrgEmptyNode",
+	"type" : "normal" }

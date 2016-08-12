@@ -1,0 +1,14 @@
+{
+	"category" : "OrgMode-Extra",
+	"classinstvars" : [
+		"uniqueInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OrgGTInspectorIntegration",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

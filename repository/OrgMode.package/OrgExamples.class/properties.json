@@ -1,0 +1,14 @@
+{
+	"category" : "OrgMode-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OrgExamples",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

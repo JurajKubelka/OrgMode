@@ -1,0 +1,3 @@
+testing
+isListParagraph
+	^ false

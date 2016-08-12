@@ -1,0 +1,19 @@
+{
+	"category" : "OrgMode-Nodes",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TOrgProperties classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"label",
+		"body",
+		"subheading",
+		"properties" ],
+	"name" : "OrgHeadingItem",
+	"pools" : [
+		 ],
+	"super" : "OrgNodeWithParent",
+	"traitcomposition" : "TOrgProperties",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "OrgMode-Nodes",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TOrgRecompileNode classTrait + TOrgAttributes classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"attributes" ],
+	"name" : "OrgNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "TOrgRecompileNode + TOrgAttributes",
+	"type" : "normal" }

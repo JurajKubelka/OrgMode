@@ -1,0 +1,17 @@
+{
+	"category" : "OrgMode-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"properties",
+		"firstEnd",
+		"lastEnd",
+		"indent" ],
+	"name" : "OrgHeadingProperties",
+	"pools" : [
+		 ],
+	"super" : "OrgNodeWithParent",
+	"type" : "normal" }

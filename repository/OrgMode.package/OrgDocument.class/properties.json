@@ -1,0 +1,15 @@
+{
+	"category" : "OrgMode-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"body",
+		"heading" ],
+	"name" : "OrgDocument",
+	"pools" : [
+		 ],
+	"super" : "OrgNode",
+	"type" : "normal" }

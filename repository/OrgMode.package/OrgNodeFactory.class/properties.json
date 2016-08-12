@@ -1,0 +1,14 @@
+{
+	"category" : "OrgMode-Parsers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OrgNodeFactory",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
