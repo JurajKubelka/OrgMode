@@ -8,6 +8,8 @@ Orignal source code is in [SmalltalkHub](http://www.smalltalkhub.com/#!/~JurajKu
 
 ## Installation 
 
+It is tested on Pharo 5.0. For not it does not work on Pharo 6.0 (developement version), because Petit Parser configuration does not work properly (tested on August 12, 2016).
+
 ```
 Metacello new
     baseline: #OrgMode;
