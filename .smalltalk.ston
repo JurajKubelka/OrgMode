@@ -1,0 +1,9 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'OrgMode',
+      #directory : 'repository',
+      #platforms : [ #pharo ]
+    }
+  ]
+}
