@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfOrgMode",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfOrgMode",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
