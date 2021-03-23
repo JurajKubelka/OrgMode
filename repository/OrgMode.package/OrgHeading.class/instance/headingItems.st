@@ -1,3 +1,0 @@
-accessing
-headingItems
-	^ self items
