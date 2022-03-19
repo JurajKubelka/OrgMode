@@ -3,3 +3,9 @@ Class {
 	#superclass : #OrgEmptyNode,
 	#category : #'OrgMode-Nodes'
 }
+
+{ #category : #accessing }
+OrgEmptyProperty >> contents [
+
+	^ ''
+]
