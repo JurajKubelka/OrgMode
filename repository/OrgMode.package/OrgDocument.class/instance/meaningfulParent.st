@@ -1,3 +1,0 @@
-accessing
-meaningfulParent
-	^ self parent

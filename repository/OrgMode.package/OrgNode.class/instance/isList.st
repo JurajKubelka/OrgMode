@@ -1,3 +1,0 @@
-testing
-isList
-	^ false

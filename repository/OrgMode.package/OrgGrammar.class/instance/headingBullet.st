@@ -1,3 +1,0 @@
-grammar - heading
-headingBullet
-	^ $* asParser

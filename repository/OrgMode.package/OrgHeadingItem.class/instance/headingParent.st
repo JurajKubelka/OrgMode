@@ -1,3 +1,0 @@
-accessing
-headingParent
-	^ self

@@ -1,3 +1,0 @@
-accessing
-listItems
-	^ self items
