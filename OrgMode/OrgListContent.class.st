@@ -20,6 +20,12 @@ OrgListContent >> lines [
 ]
 
 { #category : #accessing }
+OrgListContent >> lines: aCollection [
+
+	lines := aCollection
+]
+
+{ #category : #accessing }
 OrgListContent >> listItem [
 
 	^ self parent listItem

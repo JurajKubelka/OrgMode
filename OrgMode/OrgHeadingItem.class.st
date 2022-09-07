@@ -132,7 +132,7 @@ OrgHeadingItem >> printOn: aStream [
 	super printOn: aStream.
 	aStream
 		nextPut: $(;
-		print: self title;
+		print: self heading;
 		nextPut: $)
 ]
 
@@ -149,6 +149,12 @@ OrgHeadingItem >> properties: anObject [
 	properties ifNotNil: [ properties parent: nil ].
 	properties := anObject.
 	properties ifNotNil: [ properties parent: self ]
+]
+
+{ #category : #accessing }
+OrgHeadingItem >> propertyValueAt: aSymbol [
+
+	^ self properties propertyValueAt: aSymbol
 ]
 
 { #category : #accessing }

@@ -41,6 +41,12 @@ OrgProperty >> isProperty [
 ]
 
 { #category : #accessing }
+OrgProperty >> label [
+
+	^ label
+]
+
+{ #category : #accessing }
 OrgProperty >> label: anObject [
 
 	label := anObject
