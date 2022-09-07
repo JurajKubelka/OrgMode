@@ -4,6 +4,11 @@ Class {
 	#category : #'OrgMode-Nodes'
 }
 
+{ #category : #accessing }
+OrgGlobalProperty >> label [
+	^ label
+]
+
 { #category : #printing }
 OrgGlobalProperty >> printOn: aStream [
 

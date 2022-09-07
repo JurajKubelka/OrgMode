@@ -5,7 +5,8 @@ Class {
 		'properties',
 		'firstEnd',
 		'lastEnd',
-		'indent'
+		'indent',
+		'label'
 	],
 	#category : #'OrgMode-Nodes'
 }
@@ -38,6 +39,18 @@ OrgHeadingProperties >> indent: aString [
 OrgHeadingProperties >> isProperties [
 
 	^ true
+]
+
+{ #category : #accessing }
+OrgHeadingProperties >> label [
+
+	^ label
+]
+
+{ #category : #accessing }
+OrgHeadingProperties >> label: aString [
+
+	label := aString
 ]
 
 { #category : #accessing }

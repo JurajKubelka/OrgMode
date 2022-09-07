@@ -6,7 +6,9 @@ Class {
 		'body',
 		'subheading',
 		'properties',
-		'uniqueInstance'
+		'uniqueInstance',
+		'propertyValueAt',
+		'title'
 	],
 	#category : #'OrgMode-Nodes'
 }
@@ -183,4 +185,9 @@ OrgHeadingItem >> subheading: anOrgHeadingOrNil [
 	subheading ifNotNil: [ subheading parent: nil ].
 	subheading := anOrgHeadingOrNil.
 	anOrgHeadingOrNil ifNotNil: [ anOrgHeadingOrNil parent: self ]
+]
+
+{ #category : #accessing }
+OrgHeadingItem >> title [
+	^ title
 ]
